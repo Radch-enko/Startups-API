@@ -1,0 +1,1 @@
+rootProject.name = "band.effective.projects-api"
